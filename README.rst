@@ -261,7 +261,8 @@ Social Sciences
 * UPJOHN for Employment Research: http://www.upjohn.org/erdc/erdc.html
 * Yahoo Graph and Social Data: http://webscope.sandbox.yahoo.com/catalog.php?datatype=g
 * Youtube Graph (2007,2008): http://netsg.cs.sfu.ca/youtubedata/
-
+* Airbnb Pathways Challenge: http://databits.io/challenges/airbnb-user-pathways-challenge
+* Yelp Academic Data: https://www.yelp.com/academic_dataset
 
 Complex Networks
 ----------------
